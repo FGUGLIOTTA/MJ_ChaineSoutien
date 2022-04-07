@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-07T09:01:32.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="IJ6XmItJPqy297Q8s012" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-07T09:19:24.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="KA8WH1ExfzNBvxJUrlbt" version="17.4.0" type="github">
   <diagram id="MBqAtbAvD9uxOvgBBng6" name="Page-1">
     <mxGraphModel dx="1602" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,11 +75,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Cl0eXYHOp1nB8PguOuF0-93" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=9;fontColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="Cl0eXYHOp1nB8PguOuF0-39" target="Cl0eXYHOp1nB8PguOuF0-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl0eXYHOp1nB8PguOuF0-94" value="Sollicite" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontColor=#000000;" vertex="1" connectable="0" parent="Cl0eXYHOp1nB8PguOuF0-93">
+          <mxGeometry x="-0.1746" y="-3" relative="1" as="geometry">
+            <mxPoint x="-26" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Cl0eXYHOp1nB8PguOuF0-39" value="Utilisateurs" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="380" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cl0eXYHOp1nB8PguOuF0-42" value="Des utilisateurs qui sont satisfaits de voir leur problème résolus dans un délai raisonnable ou bien qu&#39;une réponse satisfaisante leur a été donnée à un problème déclaré" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
-          <mxGeometry x="570" y="30" width="205" height="90" as="geometry" />
+          <mxGeometry x="622" y="125" width="205" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Cl0eXYHOp1nB8PguOuF0-46" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;" edge="1" parent="1" source="Cl0eXYHOp1nB8PguOuF0-44" target="Cl0eXYHOp1nB8PguOuF0-45">
           <mxGeometry relative="1" as="geometry" />
@@ -166,15 +174,7 @@
           <mxGeometry x="942.9268292682926" y="338" width="57.073170731707314" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Cl0eXYHOp1nB8PguOuF0-64" value="Equipes de support fonctionnel hors périmètre CSN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="130" y="830" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Cl0eXYHOp1nB8PguOuF0-65" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="DiN45YGy1CBK6zutUdp--1" target="Cl0eXYHOp1nB8PguOuF0-39">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="220" y="560" />
-              <mxPoint x="220" y="90" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="200" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cl0eXYHOp1nB8PguOuF0-68" value="&lt;h1&gt;Hypothèse à valider&lt;/h1&gt;&lt;p&gt;Les utilisateurs ont une mauvaise image du CSN du fait des nombreux tickets qui ne sont pas traités par les équipes technique projets de niveau 3.&lt;/p&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=9;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="1030" y="780" width="190" height="110" as="geometry" />
@@ -196,7 +196,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Cl0eXYHOp1nB8PguOuF0-78" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;fontColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="DiN45YGy1CBK6zutUdp--1" target="Cl0eXYHOp1nB8PguOuF0-64">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="90" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Cl0eXYHOp1nB8PguOuF0-83" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;fontColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="Cl0eXYHOp1nB8PguOuF0-79" target="Cl0eXYHOp1nB8PguOuF0-82">
           <mxGeometry relative="1" as="geometry" />
@@ -239,6 +243,15 @@
         </mxCell>
         <mxCell id="Cl0eXYHOp1nB8PguOuF0-92" value="60% des tickets escaladés au niveau 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="887.99" y="540" width="81.34" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl0eXYHOp1nB8PguOuF0-95" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=9;fontColor=#000000;endArrow=classic;endFill=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Cl0eXYHOp1nB8PguOuF0-5" target="Cl0eXYHOp1nB8PguOuF0-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="141" y="500" />
+              <mxPoint x="200" y="500" />
+              <mxPoint x="200" y="185" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
