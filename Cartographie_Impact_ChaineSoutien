@@ -1,11 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2022-04-07T07:09:23.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="sus6HTeGuiuKVOg5ZE-p" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-07T07:20:00.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="pBmqdUIMf_6G7bfeNbYo" version="17.4.0" type="github">
   <diagram id="MBqAtbAvD9uxOvgBBng6" name="Page-1">
-    <mxGraphModel dx="641" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2289" dy="1371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DiN45YGy1CBK6zutUdp--1" value="Améliorer l" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="Cl0eXYHOp1nB8PguOuF0-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="60" y="360" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DiN45YGy1CBK6zutUdp--1" value="Améliorer l&#39;image de la chaîne de soutien" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF99;strokeColor=#d6b656;" parent="Cl0eXYHOp1nB8PguOuF0-7" vertex="1">
+          <mxGeometry y="30" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl0eXYHOp1nB8PguOuF0-5" value="Satisfaction utilisateur" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontStyle=1" vertex="1" parent="Cl0eXYHOp1nB8PguOuF0-7">
+          <mxGeometry x="30" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl0eXYHOp1nB8PguOuF0-6" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.business_icons.icon10;" vertex="1" parent="Cl0eXYHOp1nB8PguOuF0-7">
+          <mxGeometry x="10" y="4.5" width="20" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl0eXYHOp1nB8PguOuF0-8" value="Utilisateurs finaux" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="410" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl0eXYHOp1nB8PguOuF0-9" value="DIT" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="290" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
