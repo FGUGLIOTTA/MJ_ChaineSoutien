@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-07T08:37:14.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="eXSOPR1i5QwBskFm8IQY" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-07T09:01:32.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="IJ6XmItJPqy297Q8s012" version="17.4.0" type="github">
   <diagram id="MBqAtbAvD9uxOvgBBng6" name="Page-1">
-    <mxGraphModel dx="1335" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1602" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="26" width="95.33333333333334" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Cl0eXYHOp1nB8PguOuF0-6" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.business_icons.icon10;" vertex="1" parent="Cl0eXYHOp1nB8PguOuF0-7">
-          <mxGeometry x="8.666666666666668" y="4.5" width="17.333333333333336" height="21" as="geometry" />
+          <mxGeometry x="8.67" y="4.5" width="21.33" height="21" as="geometry" />
         </mxCell>
         <mxCell id="Cl0eXYHOp1nB8PguOuF0-10" value="Des équipes qui ont plus de temps pour rédiger des fiches réflexe à destination du niv1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="1180" y="510" width="210" height="60" as="geometry" />
@@ -90,7 +90,9 @@
         <mxCell id="Cl0eXYHOp1nB8PguOuF0-90" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=9;fontColor=#000000;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="Cl0eXYHOp1nB8PguOuF0-45" target="Cl0eXYHOp1nB8PguOuF0-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="760" y="575" />
+              <mxPoint x="760" y="630" />
+              <mxPoint x="810" y="630" />
+              <mxPoint x="810" y="615" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -112,7 +114,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Cl0eXYHOp1nB8PguOuF0-52" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="840" y="530" width="180" height="90" as="geometry" />
+          <mxGeometry x="810" y="570" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Cl0eXYHOp1nB8PguOuF0-33" value="Equipes technique en charge du niveau 3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="Cl0eXYHOp1nB8PguOuF0-52">
           <mxGeometry x="20" width="120" height="60" as="geometry" />
@@ -206,7 +208,7 @@
           <mxGeometry x="1100" y="450" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Cl0eXYHOp1nB8PguOuF0-81" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="837.9321951219512" y="385" width="85.60975609756099" height="30" as="geometry" />
+          <mxGeometry x="762.1921951219512" y="385" width="85.60975609756099" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Cl0eXYHOp1nB8PguOuF0-16" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#e51400;strokeColor=#B20000;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.business_icons.icon5;fontSize=12;fontColor=#ffffff;" vertex="1" parent="Cl0eXYHOp1nB8PguOuF0-81">
           <mxGeometry width="28.536585365853657" height="30" as="geometry" />
@@ -234,6 +236,9 @@
         </mxCell>
         <mxCell id="Cl0eXYHOp1nB8PguOuF0-87" value="Sensibiliser les chefs de bureau au traitements support" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;fillColor=#1ba1e2;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="1480" y="345" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl0eXYHOp1nB8PguOuF0-92" value="60% des tickets escaladés au niveau 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="887.99" y="540" width="81.34" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
