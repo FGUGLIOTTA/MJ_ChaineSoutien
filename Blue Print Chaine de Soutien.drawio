@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" modified="2022-04-28T07:24:46.346Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.100.1185.39 Safari/537.36 Edg/100.0.1185.39" etag="11xSqf9UEjqjTlTmDwA2" version="17.4.6" type="github">
+  <diagram id="B7AbmI3U_9TNMyXeds6c" name="Page-1">
+    <mxGraphModel dx="1182" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jtIqD39rW5gRJ9PGTsRm-1" value="&lt;h1&gt;Vision cible du service de soutien utilisateur&lt;/h1&gt;&lt;p&gt;Parcours utilisateur mis en perspective avec l&#39;organisation ainsi que les potentiels&amp;nbsp; gains et risques pour les utilisateurs et les acteurs &quot;back office&quot; de la chaîne de soutien&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="20" width="563" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jtIqD39rW5gRJ9PGTsRm-2" value="L&#39;utilisateur constate un problème / à un besoin&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jtIqD39rW5gRJ9PGTsRm-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="360" as="sourcePoint" />
+            <mxPoint x="1620" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jtIqD39rW5gRJ9PGTsRm-6" value="Ligne de visibilité" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="30" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1vMXRyuxES01_jpJGbEv-3" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.phone_digital;" vertex="1" parent="1">
+          <mxGeometry x="660" y="136" width="30" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="1vMXRyuxES01_jpJGbEv-4" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.mail_user;" vertex="1" parent="1">
+          <mxGeometry x="710" y="136" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1vMXRyuxES01_jpJGbEv-5" value="Assistance PENAL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="640" y="100" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1vMXRyuxES01_jpJGbEv-6" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 13px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: justify; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Cassiopée TJ&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="853" y="20" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1vMXRyuxES01_jpJGbEv-7" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 13px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: justify; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;CA&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="863" y="62" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1vMXRyuxES01_jpJGbEv-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1vMXRyuxES01_jpJGbEv-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="803" y="170" as="sourcePoint" />
+            <mxPoint x="843" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1vMXRyuxES01_jpJGbEv-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1vMXRyuxES01_jpJGbEv-5" target="1vMXRyuxES01_jpJGbEv-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="793" y="65" as="sourcePoint" />
+            <mxPoint x="853" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1vMXRyuxES01_jpJGbEv-10" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 13px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: justify; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;habilitations LMP&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="863" y="100" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1vMXRyuxES01_jpJGbEv-11" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 13px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: justify; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;METIS&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="863" y="180" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1vMXRyuxES01_jpJGbEv-12" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 13px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;utilisateurs DSJ sur DOT/GENESIS/ROMEO/TAJ/TIG360&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="858" y="130" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1vMXRyuxES01_jpJGbEv-13" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 13px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: justify; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;PNIJ habilitations&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="863" y="210" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1vMXRyuxES01_jpJGbEv-14" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1vMXRyuxES01_jpJGbEv-5" target="1vMXRyuxES01_jpJGbEv-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="763" y="100" as="sourcePoint" />
+            <mxPoint x="873" y="87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1vMXRyuxES01_jpJGbEv-15" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1vMXRyuxES01_jpJGbEv-5" target="1vMXRyuxES01_jpJGbEv-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="95" as="sourcePoint" />
+            <mxPoint x="873" y="125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1vMXRyuxES01_jpJGbEv-16" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1vMXRyuxES01_jpJGbEv-5" target="1vMXRyuxES01_jpJGbEv-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="105" as="sourcePoint" />
+            <mxPoint x="883" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1vMXRyuxES01_jpJGbEv-17" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1vMXRyuxES01_jpJGbEv-5" target="1vMXRyuxES01_jpJGbEv-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="773" y="90" as="sourcePoint" />
+            <mxPoint x="893" y="145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
